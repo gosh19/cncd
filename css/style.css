@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'Lalezar-Regular';
+  src:url('../fonts/Lalezar-Regular.ttf');
+}
+@font-face {
+  font-family: 'Lato-light';
+  src: url('../fonts/Lato-Light.ttf');
+}
+h1{
+  margin-bottom: 1.5rem;
+}
+footer{
+  background-color: #000;
+  color: #FFF;
+  padding: 20px;
+}
+.Lato-light{
+  font-family: 'Lato-light';
+}
+.Lalezar{
+  font-family: 'Lalezar-Regular';
+}
+.texto-violeta{
+  color: #5F2A8A;
+}
+.texto-azul{
+ color: #2E3192;
+}
+.circulo-numero{
+  border-radius: 50%;
+  background-color: #5F2A8A ;
+  width: 100px;
+  height: 100px;
+  margin-top: 40px;
+}
+.circulo-numero>h1{
+  color: #FFF;
+  font-family: 'Lalezar-Regular';
+  font-size: 90px;
+}
+.condiciones{
+  background-color: #40447A;
+}
+.condiciones p{
+  color: #FFF;
+  font-family: 'Lato-light';
+}
+.titulo{
+  font-size: 45px;
+}
+.articulos p{
+  font-family: 'Lato-light';
+  font-size: 19px;
+}
+.caja-civil{
+  background-color: #5F2A8A;
+  border-radius: 15px;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
